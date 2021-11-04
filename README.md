@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santarovich
+- 👋 Hi, I’m @santrolli
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Computer Vision
